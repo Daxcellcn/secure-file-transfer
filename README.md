@@ -12,4 +12,4 @@ To use this tool, follow these steps:
 
 4.Once the executable is built, you can use it to securely transfer files by providing the input and output file paths as command-line arguments, like this:
 
-./secure-file-transfer <input-file> <output-file>
+./secure-file-transfer input-file output-file
